@@ -9,8 +9,8 @@ and building impactful software.
 
 | Certificate | Issuer | Valid Until |
 |---|---|---|
-| Gemini Certified Student | Google for Education | Apr 2029 |
-| Google Play Store Listing | Google Play Academy | Apr 2029 |
+| [Gemini Certified Student](./Gemini%20certificate.pdf) | Google for Education | Apr 2029 |
+| [Google Play Store Listing](./google%20play.pdf) | Google Play Academy | Apr 2029 |
 
 ---
 
