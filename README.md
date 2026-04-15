@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Nausin Fatma 👋
 
-<!--
-**nausinfatma/nausinfatma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a university student passionate about AI, open source,
+and building impactful software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Certifications
+
+| Certificate | Issuer | Valid Until |
+|---|---|---|
+| Gemini Certified Student | Google for Education | Apr 2029 |
+| Google Play Store Listing | Google Play Academy | Apr 2029 |
+
+---
+
+## 🌱 Currently exploring
+- Open source contributions (preparing for GSoC 2027)
+- AI/ML projects with Google tools
+
+---
+
